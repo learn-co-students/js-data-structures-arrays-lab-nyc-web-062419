@@ -4,7 +4,7 @@
   "description": "JavaScript Data Structures Arrays Lab for Learn.co",
   "main": "index.js",
   "scripts": {
-    "test": "mocha -R mocha-multi --reporter-options spec=-,json=.results.json"
+    "test": "mocha -R mocha-multi --reporter-options spec=-,json=.results.json --timeout=8000"
   },
   "repository": {
     "type": "git",
