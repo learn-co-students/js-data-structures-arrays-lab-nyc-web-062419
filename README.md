@@ -14,7 +14,7 @@ time to practice what we've learned.
 3. Explain how to manipulate arrays in a non-destructive way
 
 ## Instructions
-
+ 
 You might have noticed that our tests are looking for functions like
 `destructivelyAppendDriver()` — what's up with that?
 
